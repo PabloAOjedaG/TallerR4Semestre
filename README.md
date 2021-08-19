@@ -1,3 +1,3 @@
 # TallerR4Semestre
 
-Saludos, este es mi primer repositorio. Espero que esta vez haya quedado bien porque el otro me tocó eliminarlo.
+Saludos, este es mi primero de 400 repositorios e intentos hasta que me pudo salir correctamente.
